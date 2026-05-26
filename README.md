@@ -22,10 +22,14 @@ total affected users, total financial loss, and etc-etc.
 - To support faster and data-driven cybersecurity decision-making.
 
 ## Insights
--
-
-
-
+- Zero-Day is the major security risk.
+- Most of users are affected by DDos attack.
+- IT and Banking industry are most targeted industry for financial attack.
+- Weak Passwords is one of the reason for cyber threats.
+- Antivirus is the most used defense strategy to prevent cyber threats.
+- Most cyber threats was happened in UK.
+- Most of cyber threats incidents was solved in 10 Hours.
+- Unknown Sources was mainly Targeted IT industry.
 
 ## References
 Kaggle: https://www.kaggle.com/datasets
