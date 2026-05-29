@@ -6,11 +6,11 @@ This project shows cyber threats and it's impact on industry and country from 20
 total affected users, total financial loss, and etc-etc.
 
 ## Tools Used
---> MySQL 8.0.46
-     - WHERE Clause
-     - GROUP BY Clause
-     - VIEWS
---> Microsoft Power BI 2.156.956.0
+--> MySQL 8.0.46 <br>
+     - WHERE Clause <br>
+     - GROUP BY Clause <br>
+     - VIEWS <br>
+--> Microsoft Power BI 2.156.956.0 <br>
 
 ## Objectives
 - To track country-wise cyber threats incidents and security trends.
