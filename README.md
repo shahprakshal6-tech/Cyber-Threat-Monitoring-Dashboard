@@ -7,9 +7,9 @@ total affected users, total financial loss, and etc-etc.
 
 ## Tools Used
 --> MySQL 8.0.46 <br>
-     - WHERE Clause <br>
-     - GROUP BY Clause <br>
-     - VIEWS <br>
+    &nbsp;&nbsp;&nbsp; - WHERE Clause <br>
+    &nbsp;&nbsp;&nbsp; - GROUP BY Clause <br>
+    &nbsp;&nbsp;&nbsp; - VIEWS <br>
 --> Microsoft Power BI 2.156.956.0 <br>
 
 ## Objectives
